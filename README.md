@@ -11,7 +11,7 @@ Sou desenvolvedor fullstack 💻
 
 Estudo na TRYBE como ser uma pessoa melhor a cada dia. 🤓
 
-Apaixonado por encantar pessoas e dedico a minha vida a tornar o mundo um lugar livre. 🤖
+Apaixonado por encantar pessoas e dedico a minha vida a tornar o mundo um lugar mais livre. 🤖
 
 ### 🌍 "Quanto mais eu faço, mais eu sou" 🧠
 
