@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=dekopossas&show_icons=true&theme=vue-dark" alt="DekoPossas`s Status" align="right" />
+<img src="https://github-readme-stats.vercel.app/api?username=dekopossas&show_icons=true&theme=vue-dark" alt="DekoPossas`s Status" align="right" />
 
 # Ei 👋
 
