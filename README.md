@@ -1,5 +1,5 @@
-<img src="https://github-readme-stats.vercel.app/api?username=dekopossas&show_icons=true&theme=vue-dark" alt="DekoPossas`s Status" align="right" />
-
+<p> <img src="https://github-readme-stats.vercel.app/api?username=dekopossas&show_icons=true&theme=vue-dark" alt="DekoPossas`s Status" align="right" /> </p>
+<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekopossas&layout=compact&theme=graywhite&title_color=268bd2" alt="deko-possas-used-languages" align="right"/> </p>
 # Ei 👋
 
 Meu nome é André Possas 
