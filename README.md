@@ -14,7 +14,7 @@ Estudo na TRYBE como ser uma pessoa melhor a cada dia. 🤓
 
 Apaixonado por encantar pessoas e dedico a minha vida a tornar o mundo um lugar mais livre. 🤖
 
-### 🌍 "Quanto mais eu faço, mais eu sou" 🧠
+### 🌍 "Quanto mais eu sei, mais eu faço!" 🧠
 
 - 📍 30 anos, nascido e criado em Belo Horizonte / Minas Gerais
 - 🏋️‍♂️ Pratico academia, adoro artes marciais e vídeo game.
