@@ -12,7 +12,9 @@ Estudo na TRYBE como ser uma pessoa melhor a cada dia. 🤓
 
 <p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekopossas&layout=compact&theme=graywhite&title_color=268bd2" alt="deko-possas-used-languages" align="right"/> </p>
 
-Apaixonado por encantar pessoas e dedico a minha vida a tornar o mundo um lugar mais livre. 🤖
+Apaixonado por encantar pessoas! ❤️
+
+Dedico a minha vida a tornar o mundo um lugar mais livre. 🤖
 
 ### 🌍 "Quanto mais eu sei, mais eu faço!" 🧠
 
