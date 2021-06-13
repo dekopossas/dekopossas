@@ -20,4 +20,3 @@ Dedico a minha vida a tornar o mundo um lugar mais livre. 🤖
 
 - 📍 30 anos, nascido e criado em Belo Horizonte / Minas Gerais
 - 🏋️‍♂️ Pratico academia, adoro artes marciais e vídeo game.
-- 💼 Estou procurando oportunidades de emprego como desenvolvedor de software
