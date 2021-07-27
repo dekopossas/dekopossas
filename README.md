@@ -16,7 +16,7 @@ Apaixonado por encantar pessoas! ❤️
 
 Dedico a minha vida a tornar o mundo um lugar mais livre. 🤖
 
-### 🌍 "Quanto mais eu sei, mais eu faço!" 🧠
+### 🌍"Quanto mais eu sei, mais eu faço!"🧠
 
 - 📍 30 anos, nascido e criado em Belo Horizonte / Minas Gerais
 - 🏋️‍♂️ Pratico academia, adoro artes marciais e vídeo game.
