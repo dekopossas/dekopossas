@@ -10,7 +10,7 @@ Sou desenvolvedor fullstack 💻
 
 Estudo na TRYBE como ser uma pessoa melhor a cada dia. 🤓
 
-<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekopossas&layout=compact&theme=graywhite&title_color=268bd2" alt="deko-possas-used-languages" align="right"/> </p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dekopossas&" alt="dekopossas" /></p>
 
 Apaixonado por encantar pessoas! ❤️
 
