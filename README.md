@@ -1,4 +1,4 @@
-<p> <img src="https://github-readme-stats.vercel.app/api?username=dekopossas&show_icons=true&theme=vue-dark" alt="DekoPossas`s Status" align="right" /> </p>
+<p> <img width="45%" src="https://github-readme-stats.vercel.app/api?username=dekopossas&show_icons=true&theme=vue-dark" alt="DekoPossas`s Status" align="right" /> </p>
 
 # Ei 👋
 
@@ -10,13 +10,13 @@ Sou desenvolvedor fullstack 💻
 
 Estudo na TRYBE como ser uma pessoa melhor a cada dia. 🤓
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dekopossas&" alt="dekopossas" /></p>
+<p><img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dekopossas&" alt="dekopossas" /></p>
 
 Apaixonado por encantar pessoas! ❤️
 
 Dedico a minha vida a tornar o mundo um lugar mais livre. 🤖
 
-### 🌍"Quanto mais eu sei, mais eu faço!"🧠
+### 🌍 "Quanto mais eu sei, mais eu faço!" 🧠
 
 - 📍 30 anos, nascido e criado em Belo Horizonte / Minas Gerais
 - 🏋️‍♂️ Pratico academia, adoro artes marciais e vídeo game.
