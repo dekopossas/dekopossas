@@ -6,7 +6,7 @@ Meu nome é André Possas
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrepossas/)](https://www.linkedin.com/in/andrepossas/)
 
-Sou desenvolvedor fullstack 💻
+Sou uma pessoa desenvolvedora fullstack 💻
 
 Estudo na TRYBE como ser uma pessoa melhor a cada dia. 🤓
 
