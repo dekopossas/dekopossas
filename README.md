@@ -8,7 +8,7 @@ Meu nome é André Possas
 
 Sou uma pessoa desenvolvedora fullstack 💻
 
-Estudo na TRYBE como ser uma pessoa melhor a cada dia. 🤓
+Estudo e pratico todos os dias como superar o André de ontem.🤓
 
 <p><img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dekopossas&" alt="dekopossas" /></p>
 
