@@ -4,10 +4,8 @@
 
 Meu nome é André Possas 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrepossas/)](https://www.linkedin.com/in/andrepossas/)
-
-[![Gmail Badge](https://img.shields.io/badge/-andrepossaster@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andrepossaster@gmail.com)](mailto:andrepossaster@gmail.com)
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrepossas/)](https://www.linkedin.com/in/andrepossas/) [![Gmail Badge](https://img.shields.io/badge/-andrepossaster@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andrepossaster@gmail.com)](mailto:andrepossaster@gmail.com)
+ 
 Sou uma pessoa desenvolvedora fullstack 💻
 
 Estudo e pratico todos os dias como superar o André de ontem.🤓
