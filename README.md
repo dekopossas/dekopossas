@@ -14,7 +14,7 @@ Estudo e pratico todos os dias como superar o André de ontem.🤓
 
 Apaixonado por encantar pessoas! ❤️
 
-Dedico a minha vida a tornar o mundo um lugar mais livre. 🤖
+Dedico minha vida a tornar o mundo um lugar mais livre. 🤖
 
 ### 🌍 "Quanto mais eu sei, mais eu faço!" 🧠
 
