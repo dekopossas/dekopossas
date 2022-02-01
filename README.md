@@ -8,7 +8,7 @@ Meu nome é André Possas
  
 Sou uma pessoa desenvolvedora fullstack 💻
 
-Estudo e pratico todos os dias como superar o André de ontem.🤓
+Estudo e pratico todos os dias para ser melhor que o André de ontem.🤓
 
 <p><img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dekopossas&" alt="dekopossas" /></p>
 
@@ -19,5 +19,5 @@ Dedico minha vida a tornar o mundo um lugar mais livre. 🤖
 ### 🌍 "Quanto mais eu sei, mais eu faço!" 🧠
 
 - 📍 30 anos, nascido e criado em Belo Horizonte / Minas Gerais
-- 🏋️‍♂️ Frequento a academia, adoro artes marciais e vídeo game.
+- 🏋️‍♂️ Frequento a academia e adoro vídeo game.
 - 💻 Pessoa Desenvolvedora Front End na [Seidor](https://www.seidor.com.br/content/seidor-latam-br/pt.html?gclid=CjwKCAjw8cCGBhB6EiwAgORey1gOH1nSkBzoR47Lor1mC4nHwTpk--o7uSi-NXqsVu6QfzC-iZl8nhoCa1QQAvD_BwE)
