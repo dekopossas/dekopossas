@@ -20,4 +20,4 @@ Dedico minha vida a tornar o mundo um lugar mais livre. 🤖
 
 - 📍 31 anos, nascido e criado em Belo Horizonte / Minas Gerais
 - 🏋️‍♂️ Frequento a academia e adoro vídeo game.
-- 💻 Pessoa Desenvolvedora Front End na [Seidor](https://www.seidor.com.br/content/seidor-latam-br/pt.html?gclid=CjwKCAjw8cCGBhB6EiwAgORey1gOH1nSkBzoR47Lor1mC4nHwTpk--o7uSi-NXqsVu6QfzC-iZl8nhoCa1QQAvD_BwE)
+- 💻 Pessoa Desenvolvedora Front End na [Workalove](https://workalove.com/)
