@@ -1,5 +1,3 @@
-<p> <img width="45%" src="https://github-readme-stats.vercel.app/api?username=dekopossas&show_icons=true&theme=vue-dark" alt="DekoPossas`s Status" align="right" /> </p>
-
 # Ei 👋
 
 Meu nome é André Possas 
@@ -9,8 +7,6 @@ Meu nome é André Possas
 Sou uma pessoa desenvolvedora fullstack 💻
 
 Estudo e pratico todos os dias para ser melhor que o André de ontem.🤓
-
-<p><img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dekopossas&" alt="dekopossas" /></p>
 
 Apaixonado por encantar pessoas! ❤️
 
