@@ -13,7 +13,7 @@ Apaixonado por encantar pessoas! ❤️
 Dedico minha vida a tornar o mundo um lugar mais livre. 🤖
 
 ### 🌍 "Quanto mais eu sei, mais eu faço!" 🧠
-
+- 👶 Papai do Davi
 - 📍 32 anos, nascido e criado em Belo Horizonte / Minas Gerais
 - 🏋️‍♂️ Frequento a academia e adoro vídeo game.
 - 💻 Pessoa Desenvolvedora Front End na [Workalove](https://workalove.com/)
